@@ -3,6 +3,9 @@
 <a href="https://www.linkedin.com/in/javicastillo89/" target="_blank"><img src="linkedin.png" width="50" align="right"/></a>
 <a href="mailto:jav.castonatt@gmail.com"><img src="mail.png" width="54" align="right"/></a>
 
+[<img src="linkedin.png" width="50" align="right"/>](https://www.linkedin.com/in/javicastillo89/)
+[<img src="mail.png" width="54" align="right"/>](mailto:jav.castonatt@gmail.com)
+
 ### Hola 👋
 
  ✏️ Placeholder mientras se me ocurre algo. Boop Beep Boop
