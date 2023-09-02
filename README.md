@@ -1,7 +1,7 @@
 <h1 align="center">Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></h1>
 <h3 align="center">Been trying to meet you</h3>
 
-[<img src="linkedin.png" width="50" align="right"/>](https://www.linkedin.com/in/javicastillo89/){:target="_blank"}
+[<img src="linkedin.png" width="50" align="right"/>](https://www.linkedin.com/in/javicastillo89/)
 [<img src="mail.png" width="54" align="right"/>](mailto:jav.castonatt@gmail.com)
 
 ### Hola 👋
